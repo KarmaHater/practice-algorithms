@@ -1,0 +1,6 @@
+do you know what a hashmap is? wathc a video (https://www.youtube.com/watch?v=MfhjkfocRR0)
+
+what happens when you have hash collitions?
+
+difference between hash maps hash table?
+http://blog.manishchhabra.com/2012/08/the-5-main-differences-betwen-hashmap-and-hashtable/
